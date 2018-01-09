@@ -12,6 +12,9 @@
 [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 # React
 
+# Redux
+[Build your own Redux in TS](https://toddmotto.com/redux-typescript-store)
+
 # TypeScript
 
 # Git
