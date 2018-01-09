@@ -31,6 +31,7 @@ https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b
 # Challenge
 
 https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript
+
 https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
 
