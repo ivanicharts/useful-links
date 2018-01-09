@@ -8,7 +8,8 @@
 [Data Structures and Algorithms in JavaScript](https://frontendmasters.com/courses/data-structures-algorithms/)
 # Patterns
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript
-
+# Rendering Performance
+[Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 # React
 
 # TypeScript
