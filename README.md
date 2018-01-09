@@ -5,7 +5,7 @@
 # Architecture
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 # Data Types & Algorithms
-
+[Data Structures and Algorithms in JavaScript](https://frontendmasters.com/courses/data-structures-algorithms/)
 # Patterns
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript
 
