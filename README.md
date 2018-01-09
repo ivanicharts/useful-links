@@ -15,23 +15,22 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodule
 # TypeScript
 
 # Git
-https://danielkummer.github.io/git-flow-cheatsheet/
-http://nvie.com/posts/a-successful-git-branching-model/
+[Git flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+[A successful git branch model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 # Docker
-http://training.play-with-docker.com/
+[Play with docker](http://training.play-with-docker.com/)
 
 # Security
 
 # Code Style
-https://github.com/rwaldron/idiomatic.js/
+[Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 
 # Guides
-https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b
+[From Zero To Frontend Hero](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b)
 
 # Challenge
-
-https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript
+[CodeWars Theatre Square](https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript)
 
 https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
