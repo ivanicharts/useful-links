@@ -7,7 +7,7 @@
 # Data Types & Algorithms
 [Data Structures and Algorithms in JavaScript](https://frontendmasters.com/courses/data-structures-algorithms/)
 # Patterns
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript
+[JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 # Rendering Performance
 [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 # React
@@ -30,7 +30,7 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodule
 [From Zero To Frontend Hero](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b)
 
 # Challenge
-[CodeWars Theatre Square](https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript)
+[[CodeWars] Theatre Square](https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript)
 
 https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
