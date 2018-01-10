@@ -12,7 +12,7 @@
 # Rendering Performance
 [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 # React
-[Stateless components advantages](https://www.evernote.com/Home.action?login=true#n=e77ca0ef-6c60-463d-9eb4-cd234abf0fa9&s=s367&ses=4&sh=2&sds=5&)
+[Stateless components advantages](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 # Redux
 [Build your own Redux in TS](https://toddmotto.com/redux-typescript-store)
 
