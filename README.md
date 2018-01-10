@@ -13,6 +13,7 @@
 # React
 
 # TypeScript
+[Pro TypeScript, 2nd Edition](http://www.allitebooks.com/pro-typescript-2nd-edition/)
 
 # Git
 [Git flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
