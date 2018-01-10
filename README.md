@@ -38,6 +38,6 @@
 # Challenge
 [[CodeWars] Theatre Square](https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript)
 
-https://gist.github.com/lg-bot/d3653ebe023f0f515644
+[Colorpicker challenge](https://gist.github.com/lg-bot/d3653ebe023f0f515644)
 
 
