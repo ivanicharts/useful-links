@@ -28,6 +28,7 @@
 
 # Security
 [Danger of external dependencies](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+[How HTTPS works](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 
 # Code Style
 [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
