@@ -17,7 +17,7 @@
 [Build your own Redux in TS](https://toddmotto.com/redux-typescript-store)
 
 # TypeScript
-[Pro TypeScript, 2nd Edition](http://www.allitebooks.com/pro-typescript-2nd-edition/)
+[Pro TypeScript, 2nd Edition](http://www.allitebooks.com/pro-typescript-2nd-edition/)  
 [React/Redux Typescript Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 
 # Git
