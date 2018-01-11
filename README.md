@@ -20,8 +20,8 @@
 [Pro TypeScript, 2nd Edition](http://www.allitebooks.com/pro-typescript-2nd-edition/)
 
 # Git
-[Git flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-[A successful git branch model](http://nvie.com/posts/a-successful-git-branching-model/)
+[Git flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)  
+[A successful git branch model](http://nvie.com/posts/a-successful-git-branching-model/)  
 
 # Docker
 [Play with docker](http://training.play-with-docker.com/)
@@ -38,7 +38,6 @@
 
 # Challenge
 [[CodeWars] Theatre Square](https://www.codewars.com/kata/one-line-task-theatre-square/train/javascript)
-
 [Colorpicker challenge](https://gist.github.com/lg-bot/d3653ebe023f0f515644)
 
 
