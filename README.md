@@ -15,7 +15,8 @@
 [Stateless components advantages](https://www.evernote.com/Home.action?login=true#n=e77ca0ef-6c60-463d-9eb4-cd234abf0fa9&s=s367&ses=4&sh=2&sds=5&)
 # Redux
 [Build your own Redux in TS](https://toddmotto.com/redux-typescript-store)
-
+# Testing
+[Testing JavaScript Applications (feat. React and Redux)](https://frontendmasters.com/courses/testing-javascript/)
 # TypeScript
 [Pro TypeScript, 2nd Edition](http://www.allitebooks.com/pro-typescript-2nd-edition/)
 
